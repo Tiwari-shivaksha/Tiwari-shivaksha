@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm SHIVAKSHA TIWARI</h1>
 <h3 align="center">A passionate about demonstrating my ability to apply theoretical knowledge to practical problems.</h3>
 <img align=”right” alt=”coding” width=”200” src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
